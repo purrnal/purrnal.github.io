@@ -4,8 +4,8 @@ Stand: 20. November 2026 · [English version below](#purrnal--privacy-policy)
 
 ## Verantwortlich
 
-[Paul Bockelmann]
-[Wiesentalstr. 58, 79115 Freiburg]
+[NameWillCome]
+[Streetname, number City]
 [purrnal@mailbox.org]
 
 ## Kurz gesagt
@@ -49,8 +49,8 @@ Last updated: November 20, 2026
 
 ## Controller
 
-[Paul Bockelmann]
-[Wiesentalstr. 58, 79115 Freiburg]
+[NameWillCome]
+[Streetname, number City]
 [purrnal@mailbox.org]
 
 ## In short
